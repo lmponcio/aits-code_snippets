@@ -6,6 +6,8 @@ A script for finding and replacing text, useful for changing Jekyll tags:
 - Replaces all occurrences of `SEARCH_STRING` with `REPLACE_STRING`.
 
 Python 3.11.8
+
+More at: https://aloneinthesea.com/2024/04/jekyll-batch-replace-tag
 """
 
 import os
