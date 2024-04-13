@@ -7,6 +7,8 @@ useful for removing Jekyll front matter lines.
 - In each file, it deletes the first line it finds starting with`PREFIX`.
 
 Python 3.11.8
+
+More at: https://aloneinthesea.com/2024/04/jekyll-front-matter-update-with-python
 """
 
 import os
